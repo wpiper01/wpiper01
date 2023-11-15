@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have a passion for building robust web applications and creating customized solutions for WordPress websites.
+
+## Explore My Work
+Check out some of my projects and contributions on [GitHub](https://github.com/wpiper01).
+
+Thanks for visiting! 😊
